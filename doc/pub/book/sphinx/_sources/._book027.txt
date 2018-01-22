@@ -1734,7 +1734,7 @@ equation problem from :ref:`(376) <Eq:nitcshe:varform:Poisson>`, known as the
 equation, one manipulates the variational form
 :ref:`(376) <Eq:nitcshe:varform:Poisson>` such that no derivatives of :math:`v`
 appear and the equation :ref:`(376) <Eq:nitcshe:varform:Poisson>` can be
-written as :math:`\int\limits_\Omega \mathcal{L}v{\, \mathrm{d}x} =0`, :math:`\forall v\in`, from which
+written as :math:`\int\limits_\Omega \mathcal{L}v{\, \mathrm{d}x} =0`, :math:`\forall v\in V`, from which
 it follows that :math:`\mathcal{L}=0` is the differential equation.
 
 Performing integration by parts of the term
